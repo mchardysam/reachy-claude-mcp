@@ -60,6 +60,8 @@ Reachy reacts to your coding sessions with emotions, speech, and celebratory dan
 
 4. **Start Claude Code** and Reachy will react to your coding!
 
+5. **(Optional) Add instructions for Claude** - Copy [`examples/CLAUDE.md`](examples/CLAUDE.md) to your project root or `~/projects/CLAUDE.md`. This teaches Claude when and how to use Reachy's tools effectively.
+
 ## Installation Options
 
 ### Basic (robot + TTS only)
